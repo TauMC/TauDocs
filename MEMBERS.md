@@ -1,0 +1,120 @@
+# TauMC Members
+
+In no particular order, the following are the current members of TauMC and their associated contact information and projects. Any contact not on this list should be assumed to be an impersonator until verified on one of the listed platforms or via a GPG signed message using their listed key.
+
+# embeddedt
+
+## Contact
+
+##### GitHub: [embeddedt](https://github.com/embeddedt)
+##### Discord: @embeddedt (ID: 930222347166818404)
+##### Modrinth: [embeddedt](https://modrinth.com/user/embeddedt)
+##### CurseForge: [embeddedt](https://legacy.curseforge.com/members/embeddedt/projects)
+##### Minecraft: [embeddedt](https://namemc.com/profile/embeddedt.1)
+##### GPG:
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+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
+=2zxm
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+# Nolij
+
+## Contact
+
+##### GitHub: [Nolij](https://github.com/Nolij)
+##### Discord: @xdmatthewbx (ID: 348696829648437249)
+##### Minecraft: [xdMatthewbx](https://namemc.com/profile/xdMatthewbx.1)
+##### Modrinth: [Nolij](https://modrinth.com/user/Nolij)
+##### CurseForge: [Nolij](https://legacy.curseforge.com/members/Nolij/projects)
+##### GPG: 
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+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
+CLBjz7qT/12ooQ==
+=jui3
+-----END PGP PUBLIC KEY BLOCK-----
+```

@@ -1,0 +1,3 @@
+# TauMC Standards
+
+The standards in this directory should provide insight in to how we (the members of TauMC) operate. We welcome the Minecraft modding community to also follow these standards, but obviously we don't require or expect that anyone who isn't a member of TauMC follows these. Even our own members aren't _required_ to follow these, but we will do our best to do so when feasible, and when not feasible, we will attempt to update these standards accordingly.
